@@ -27,8 +27,8 @@ I'm a **Senior Front-End Engineer** with **8+ years of experience** specializing
 
 <div align="center">
   <a href="https://github.com/Msamir22">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Msamir22&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Msamir22&layout=compact&theme=radical"/>
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Msamir22&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Msamir22&layout=compact&theme=tokyonight"/>
   </a>
 </div>
 
